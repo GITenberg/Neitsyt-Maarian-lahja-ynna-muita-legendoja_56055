@@ -1,0 +1,33 @@
+_repo: Neitsyt-Maarian-lahja-ynna-muita-legendoja_56055
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Onerva, L.
+    aliases:
+    - Madetoja, Hilja Onerva
+    - Lehtinen, Hilja Onerva
+    - Streng, Hilja Onerva
+    - Lehtinen, Onerva
+    birthdate: 1882
+    deathdate: 1972
+    gutenberg_agent_id: '2741'
+    url: http://www.gutenberg.org/2009/agents/2741
+    wikipedia: https://fi.wikipedia.org/wiki/L._Onerva
+description: ''
+gutenberg_issued: '2017-11-27'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '56055'
+language: fi
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Short stories, Finnish'
+- !lcc 'PH'
+- !lcsh 'Finnish fiction -- 20th century'
+- GITenberg
+tableOfContents: Neitsyt Maarian lahja -- Siniyön taru -- Jama ja Ristin mies -- Manalan
+  vaaka.
+title: 'Neitsyt Maarian lahja: ynnä muita legendoja'
+url: http://www.gutenberg.org/ebooks/56055
